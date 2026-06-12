@@ -50,6 +50,8 @@ predictive modeling with actionable business recommendations.
 ## Dashboard
 Interactive dashboard built in Tableau Public.
 [View Dashboard →](https://public.tableau.com/views/TelcoCustomerChurnAnalysis-RiskDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1111" height="577" alt="dashboard1" src="https://github.com/user-attachments/assets/35fa2f26-263a-44b5-ae98-3787d2e6c9e2" />
+
 
 ## Tools Used
 Python · Pandas · NumPy · XGBoost · SHAP · 
